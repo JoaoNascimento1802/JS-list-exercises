@@ -1,4 +1,15 @@
 h1{
     position: relative;
-    left: 680px;
+    left: 750px;
+}
+
+#select{
+    position: relative;
+    left: 750px;
+}
+
+#NullP{
+    position: relative;
+    left: 760px;
+    top: 50px;
 }
